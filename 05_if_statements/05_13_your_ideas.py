@@ -1,0 +1,4 @@
+'''Honestly with this new found power I really want to start learning how I can use it in the aspect of CyberSecurity.
+With the many issue people suffer through due to cyber attacks I'd really want to find out how I can help and how I can fix these issues.
+I also thought as a little side thing I'd make a game with my brother or friends at a time.
+Though, my main focus is more towards cybersecurity and how I may fix the many issues people suffer through as well as finding ways to avoid potential hackers from taking over accounts and ruining everything a person has and that definitely sucks to have happen to a person.'''
