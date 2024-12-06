@@ -1,0 +1,4 @@
+import printing_functions
+
+printing_functions.print_models(printing_functions.unprinted_designs, printing_functions.completed_models)
+printing_functions.show_completed_models(printing_functions.completed_models)

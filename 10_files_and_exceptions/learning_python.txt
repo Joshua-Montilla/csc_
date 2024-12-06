@@ -1,0 +1,5 @@
+In Python, you can add an item to a list without having to write it in
+In Python, you can use a copy of a list and modify it without affecting the original
+In Python, you can create a lottery ticket with whatever symbol, number, or letter
+In Python, you can create infinite loops
+In Python, you can add or subtract indefinitely 
